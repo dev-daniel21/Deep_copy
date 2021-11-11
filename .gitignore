@@ -1,3 +1,4 @@
+/gitignore
 # Default ignored files
 /shelf/
 /.idea/workspace.xml
@@ -8,4 +9,5 @@
 /httpRequests/
 .out/
 .idea/
+
 
